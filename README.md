@@ -1,3 +1,3 @@
 # HTML-CSS
 
-C'est pas fini !
+pas encore fini
